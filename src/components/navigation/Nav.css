@@ -1,0 +1,16 @@
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+  font-family: 'Ubuntu';
+}
+
+.navlink {
+  font-size: 1.2rem;
+  font-family: 'Montserrat', Light;
+  padding: 0 18px;
+}
