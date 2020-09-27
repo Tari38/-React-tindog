@@ -2,6 +2,7 @@
 
 .navbar {
   padding: 0 0 4.5rem;
+  justify-content: space-between;
 }
 
 .navbar-brand {
@@ -9,8 +10,25 @@
   font-family: 'Ubuntu';
 }
 
+.navitem {
+  padding: 0 18px;
+}
+
 .navlink {
+  display: flex;
+  margin: auto;
   font-size: 1.2rem;
   font-family: 'Montserrat', Light;
   padding: 0 18px;
+  color: white;
+}
+
+.navlink:hover {
+  text-decoration: none;
+}
+
+@media screen and (max-width: 400px) {
+.navlink {
+  visibility: visible;
+}
 }
