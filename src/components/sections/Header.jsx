@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import iphone from "../../images/iphone6.png";
+import iphone from "../images/iphone6.png";
 
 import "./styles/Header.css";
 

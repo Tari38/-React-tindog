@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import tcLogo from "../../images/TechCrunch.png";
-import tnwLogo from "../../images/tnw.png";
-import bizLogo from "../../images/bizinsider.png";
-import mashableLogo from "../../images/mashable.png";
+import tcLogo from "../images/TechCrunch.png";
+import tnwLogo from "../images/tnw.png";
+import bizLogo from "../images/bizinsider.png";
+import mashableLogo from "../images/mashable.png";
 
 
 import "./styles/Press.css";

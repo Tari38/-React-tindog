@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import dogImg from "../../images/dog-img.jpg";
-import ladyImg from "../../images/lady-img.jpg";
+import dogImg from "../images/dog-img.jpg";
+import ladyImg from "../images/lady-img.jpg";
 
 import "./styles/Testimonials.css";
 
